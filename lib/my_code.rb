@@ -1,6 +1,5 @@
 # My Code here....
-def map_to_negativize (array){
+def map_to_negativize (array)
   array*-1
   array
-}
 end 
